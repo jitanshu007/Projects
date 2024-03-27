@@ -1,3 +1,20 @@
-{
-  "Test":"test"
-}
+[
+  {
+    "id": 1,
+    "name": "Google Docs",
+    "Link": "https://www.iiitsurat.ac.in/",
+    "info": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as"
+  },
+  {
+    "id": 2,
+    "name": "NetFlix",
+    "Link": "https://www.iiitsurat.ac.in/",
+    "info": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as"
+  },
+  {
+    "id": 3,
+    "name": "ATS",
+    "Link": "https://www.iiitsurat.ac.in/",
+    "info": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as"
+  }
+]
